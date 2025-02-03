@@ -1,0 +1,9 @@
+Package: actividad4
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Valentina Alessandra Calicchia
+Description: Aplicación de gestión de reservas de hotel
+ Un sistema de reservas para hoteles basado en Python y MySQL.

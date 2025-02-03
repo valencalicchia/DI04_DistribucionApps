@@ -1,0 +1,2 @@
+[console_scripts]
+tarea4 = tarea3.main:main
